@@ -17,7 +17,7 @@ export default function LoginPage() {
               srcSet="https://i.pinimg.com/originals/77/a5/d5/77a5d584b40ce787c22346c1cb96a9a5.jpg"
               loading="lazy"
             />
-            <div className="flex-auto self-stretch my-auto">Kontol</div>
+            <div className="flex-auto self-stretch my-auto">halo</div>
           </div>
           <div className="flex gap-5 justify-between my-auto text-base">
             <button className="justify-center px-6 py-3.5 bg-blue-500 rounded-lg max-md:px-5">
